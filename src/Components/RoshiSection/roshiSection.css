@@ -1,0 +1,27 @@
+.site__section .container img {
+  width: 12rem;
+  height: auto;
+  margin-bottom: 3rem;
+  margin-right: -1.4rem;
+}
+
+.text__container {
+  width: min(100%, 800px);
+}
+
+@media (width >= 1025px) {
+  .site__section .container {
+    justify-content: space-between;
+  }
+
+  .site__section .container img {
+    width: 17rem;
+    margin-bottom: initial;
+  }
+
+  .text__container {
+    display: flex;
+    flex-direction: column;
+    width: initial;
+  }
+}

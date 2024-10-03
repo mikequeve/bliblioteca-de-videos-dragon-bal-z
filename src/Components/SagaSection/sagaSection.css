@@ -1,0 +1,20 @@
+.saga__section {
+  width: 100%;
+}
+
+.videos__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  gap: 1rem;
+  margin-top: 3rem;
+}
+
+.saga__section:last-child {
+  margin-bottom: 5rem;
+}
+
+@media (width >= 1025px) {
+  .saga__section:last-child {
+    margin-bottom: initial;
+  }
+}

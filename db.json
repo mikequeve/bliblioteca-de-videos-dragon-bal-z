@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "title": "Goku vs las Fuerzas Especiales Gyniu",
+      "saga": "saga freezer",
+      "img": "/img/sagaFreezer.jpg",
+      "video": "https://www.youtube.com/watch?v=inTzlokNRzI",
+      "description": "Batalla completa entre Goku y las fuerzas especiales Gyniu.",
+      "id": "1"
+    },
+    {
+      "title": "Goku vs Freezer",
+      "saga": "saga freezer",
+      "img": "/img/sagaFreezer.jpg",
+      "video": "https://www.youtube.com/watch?v=s1pKzvbA4qE",
+      "description": "Batalla completa entre Goku y Freezer.",
+      "id": "2"
+    },
+    {
+      "title": "Bardock el padre de Goku",
+      "saga": "saga freezer",
+      "img": "/img/sagaFreezer.jpg",
+      "video": "https://www.youtube.com/watch?v=1naltBHhi1s",
+      "description": "Pelicula que narra la fugaz vida de Bardock, el padre de Goku.",
+      "id": "3"
+    },
+    {
+      "title": "La Llegada de los Androides",
+      "saga": "saga cell",
+      "img": "/img/sagaCell.jpg",
+      "video": "https://www.youtube.com/watch?v=zcS0szJ8MAo",
+      "description": "Primera aparición de Trunks y la llegada de los androides.",
+      "id": "4"
+    },
+    {
+      "title": "Vegeta vs Cell Perfecto",
+      "saga": "saga cell",
+      "img": "/img/sagaCell.jpg",
+      "video": "https://www.youtube.com/watch?v=wNwrrWu_VsM",
+      "description": "Vegeta confiado de su poder tras ingresar en la habitación del tiempo, comete el error de dejar que cell perfeccione su cuerpo.",
+      "id": "5"
+    },
+    {
+      "title": "Gohan vs Cell",
+      "saga": "saga cell",
+      "img": "/img/sagaCell.jpg",
+      "video": "https://www.youtube.com/watch?v=cmH51Bo6F_E",
+      "description": "Pelea entre Gohan y Cell, Gohan expulsa su máximo poder.",
+      "id": "6"
+    },
+    {
+      "title": "El sacrificio de Vegeta",
+      "saga": "saga majin buu",
+      "img": "/img/sagaMajinBoo.jpg",
+      "video": "https://www.youtube.com/watch?v=KCtLYVAtq74",
+      "description": "Vegeta sacrifica su vida para destruir a Majin Buu y proteger a todos.",
+      "id": "7"
+    },
+    {
+      "title": "Gohan vs Majin Buu",
+      "saga": "saga majin buu",
+      "img": "/img/sagaMajinBoo.jpg",
+      "video": "https://www.youtube.com/watch?v=-FSTu25Ve3o",
+      "description": "Gohan aparece después de haber entrenado en el platena supremo.",
+      "id": "8"
+    },
+    {
+      "title": "Goku vs Majin Buu última transformación",
+      "saga": "saga majin buu",
+      "img": "/img/sagaMajinBoo.jpg",
+      "video": "https://www.youtube.com/watch?v=wh215Itloos",
+      "description": "El universo vuelve a estar en manos de Goku, pelea entre Goku y Majin Buu.",
+      "id": "9"
+    }
+  ]
+}

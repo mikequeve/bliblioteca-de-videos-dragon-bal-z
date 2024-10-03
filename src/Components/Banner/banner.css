@@ -1,0 +1,28 @@
+.site__banner {
+  position: relative;
+}
+
+.site__banner::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  content: '';
+  z-index: 999;
+}
+
+.site__banner .container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+
+@media (width >= 1025px) {
+  .site__banner .container .paragraph {
+    text-align: center;
+  }
+}

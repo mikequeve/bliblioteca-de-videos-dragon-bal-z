@@ -1,0 +1,37 @@
+.form {
+  width: 100%;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.form__field {
+  width: 100%;
+  gap: 0.5rem;
+}
+
+.form__field input,
+.form__field select {
+  width: 100%;
+  padding: 0.5rem;
+  outline: none;
+  border-radius: 5px;
+  border: solid 1px var(--text-color);
+  caret-color: var(--text-color);
+  font-family: 'Archivo Variable', sans-serif;
+}
+
+.form__field input::placeholder {
+  color: var(--text-color);
+}
+
+.form__btn-container {
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+@media (width >= 1025px) {
+  .form__field input,
+  .form__field select {
+    padding: 1rem;
+  }
+}

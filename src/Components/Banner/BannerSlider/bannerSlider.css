@@ -1,0 +1,22 @@
+.site__banner-slider--img {
+  width: 100%;
+  height: 100vh;
+  background-image: url('/img/goku-superSaiyan.jpeg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.slide02 {
+  background-image: url('/img/gohan-cellSaga.jpeg');
+}
+
+.slide03 {
+  background-image: url('/img/vegeta-majinBuu.jpeg');
+}
+
+@media (width <= 768px) {
+  .slide02 {
+    background-position: -100px;
+  }
+}
