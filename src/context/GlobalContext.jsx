@@ -2,7 +2,8 @@ import React, { createContext, useEffect, useState } from 'react';
 
 export const GlobalContext = createContext();
 
-const endpoint = 'http://localhost:3000/videos';
+const endpoint =
+  'https://my-json-server.typicode.com/mikequeve/video-dragon-ball-api/videos';
 
 const sagas = [
   {
